@@ -1,0 +1,2 @@
+documento de teste do git
+vamos agora testa-lo.
